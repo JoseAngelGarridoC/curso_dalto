@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.defaultLocation": "editor",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontSize": 14,
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace, Victor mono"
+}
